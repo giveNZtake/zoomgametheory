@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"23c322fb3920538b09c5a94857167fd8","lockfileHash":"536fbac6aee64b452ccf7983f9a300f4","guessedImports":["vite","@vitejs/plugin-react","firebase","react","react-dom","react-countdown-circle-timer","@zoomus/websdk"],"guessedImportsHash":"87608bd3df77df201ff37b2ca6ae8205"}}}
